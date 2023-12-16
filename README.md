@@ -1,4 +1,4 @@
-# System Design Resources
+# Mastering System Design: Essential Resources for Scalable Solutions
 This repository contains System Design resources which are useful to learn concepts and prepare for interviews.
 
 ## System Design Fundamentals
